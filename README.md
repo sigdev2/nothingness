@@ -2,6 +2,20 @@
 
 This is nothing, just a template for PyPI packages
 
+## Installation
+
+### From PyPI
+
+```sh
+pip3 install nothingness
+```
+
+### From GitHub
+
+```sh
+pip3 install git+https://github.com/donno2048/nothingness
+```
+
 ## Usage
 
 ### Import fun from \_\_init__.py
