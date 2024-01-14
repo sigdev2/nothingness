@@ -3,7 +3,7 @@ setup(
     name='nothingness',
     version='1.0.0',
     license='MIT',
-    author='sigdev2',
+    author='sigdev',
     author_email='sigdev.store@gmail.com',
     description="This is nothing, just a template for PyPI packages",
     long_description=open('README.md').read(),
